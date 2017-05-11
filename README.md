@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>Catsoup</title>
+<link href= "/style.css" type= "text/css" rel="stylesheet"> 
 </head>  
 <body>
 <h1> 10/10 Would Watch Again </h1>
