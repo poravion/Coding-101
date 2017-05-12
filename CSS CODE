@@ -1,0 +1,11 @@
+p {
+color: rgb (23, 10, 45);
+}
+
+p { 
+font-size: 21px;
+}
+
+* {
+font-family: Georgia;
+}
