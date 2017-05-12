@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Catsoup</title>
-<link href= "stylesheet/main.css" type= "text/css" rel="stylesheet"> 
+<link href= "https://github.com/poravion/CSS-Style-Sheet/blob/master/README.md" type= "text/css" rel="stylesheet"> 
 </head>  
 <body>
 <h1> 10/10 Would Watch Again </h1>
