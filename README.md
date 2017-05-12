@@ -10,7 +10,5 @@
 <ol> <li> The sounds were all isolated and made for a weird effect </li>
 <li> The animation was so vivid, you didn't need dialogue </li>
 <li> It was the good kinda creepy where you can't tear your eyes away from the screen </li> </ol>
-<a href= "https://en.wikipedia.org/wiki/Cat_Soup" target="_blank"><img src= "https://en.wikipedia.org/wiki/Cat_Soup#/media/File:Cat_Soup_cover.jpg" alt="Weird Ass Cat"/></a>
-</body>
-</html>
+<img src= "http://366weirdmovies.com/wp-content/uploads/2015/04/cat_soup.jpg" alt="Weird Ass Cat"/><body><html>
 
