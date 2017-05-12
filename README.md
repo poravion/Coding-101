@@ -1,17 +1,6 @@
-index.html
 <!DOCTYPE html>
 <html>
 <head>
-Catsoup
-<style>
-h1 {
-color: SeaGreen;
-}
-
-* {
-font-family: Georgia;
-}
-</style>
 </head>  
 <body>
 <h1> 10/10 Would Watch Again </h1>
